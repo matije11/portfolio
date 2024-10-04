@@ -1,5 +1,4 @@
 "use client";
-/* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 import { HeroStars } from "@/components/HeroStars";
 import memojiImage from "@/assets/images/memoji-computer.png";
@@ -58,7 +57,7 @@ export const HeroSection = () => {
             className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl z-30"
           >
             <span>👋</span>
-            <span className="font-semibold">Let's Connect</span>
+            <span className="font-semibold">Let&apos;s Connect</span>
           </button>
         </div>
       </div>
