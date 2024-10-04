@@ -12,11 +12,12 @@ import ReduxIcon from "@/assets/icons/redux.svg";
 import FirebaseIcon from "@/assets/icons/firebase.svg";
 import BitbucketIcon from "@/assets/icons/bitbucket.svg";
 import MuiIcon from "@/assets/icons/mui.svg";
+import TailwindIcon from "@/assets/icons/tailwind.svg";
+import CheckCircleIcon from "@/assets/icons/check-circle.svg";
 import CardHeader from "@/components/CardHeader";
 import { ToolboxItems } from "@/components/ToolboxItems";
 import { motion } from "framer-motion";
 import { useRef } from "react";
-import CheckCircleIcon from "@/assets/icons/check-circle.svg";
 
 const toolboxItems = [
   {
@@ -62,6 +63,10 @@ const toolboxItems = [
   {
     title: "Bitbucket",
     iconType: BitbucketIcon,
+  },
+  {
+    title: "Tailwind",
+    iconType: TailwindIcon,
   },
 ];
 
@@ -149,9 +154,6 @@ export const AboutSection = () => {
                   Neagoie, Yihua Zhang, ZTM
                 </span>
               </li>
-              {/* <div className="w-40 mx-auto mt-2 md:mt-0">
-                <Image src={bookImage} alt="Book image" />
-              </div> */}
             </Card>
             <Card className="h-[320px] p-0 flex flex-col md:col-span-1 lg:col-span-1">
               <CardHeader
