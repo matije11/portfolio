@@ -1,12 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<g>
-	<title>jira</title>
-	<g>
-		<path d="M472,243.4L259.7,31L47.3,243.4c-7,7-7,18.3,0,25.3L259.7,481L472,268.7C479.1,261.8,479.1,250.4,472,243.4z M259.7,322.6
-			L193.1,256l66.6-66.5l66.5,66.5L259.7,322.6z"/>
-	</g>
-</g>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M27.0055 4H15.4512C15.4512 6.88 17.7826 9.21143 20.6626 9.21143H22.7883V11.2686C22.7883 14.1486 25.1197 16.48 27.9997 16.48V4.99429C27.9997 4.44571 27.554 4 27.0055 4Z" fill="inherit"/>
+<path d="M21.2799 9.76001H9.72559C9.72559 12.64 12.057 14.9714 14.937 14.9714H17.0627V17.0286C17.0627 19.9086 19.3942 22.24 22.2742 22.24V10.7543C22.2742 10.2057 21.8284 9.76001 21.2799 9.76001Z" fill="inherit"/>
+<path d="M15.5543 15.52H4C4 18.4 6.33143 20.7314 9.21143 20.7314H11.3371V22.7886C11.3371 25.6686 13.6686 28 16.5486 28V16.5143C16.5486 15.9657 16.1029 15.52 15.5543 15.52Z" fill="inherit"/>
 </svg>

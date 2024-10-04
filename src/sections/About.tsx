@@ -1,19 +1,17 @@
 "use client";
 import { Card } from "@/components/Card";
 import { SectionHeader } from "@/components/SectionHeader";
-import bookImage from "@/assets/images/book-cover.png";
-import Image from "next/image";
 import JavascriptIcon from "@/assets/icons/square-js.svg";
 import HTMLIcon from "@/assets/icons/html5.svg";
 import CssIcon from "@/assets/icons/css3.svg";
 import ReactIcon from "@/assets/icons/react.svg";
 import GithubIcon from "@/assets/icons/github.svg";
-import ChromeIcon from "@/assets/icons/chrome.svg";
 import TypeScriptIcon from "@/assets/icons/typescript.svg";
 import JiraIcon from "@/assets/icons/jira.svg";
 import ReduxIcon from "@/assets/icons/redux.svg";
 import FirebaseIcon from "@/assets/icons/firebase.svg";
 import BitbucketIcon from "@/assets/icons/bitbucket.svg";
+import MuiIcon from "@/assets/icons/mui.svg";
 import CardHeader from "@/components/CardHeader";
 import { ToolboxItems } from "@/components/ToolboxItems";
 import { motion } from "framer-motion";
@@ -46,8 +44,8 @@ const toolboxItems = [
     iconType: GithubIcon,
   },
   {
-    title: "Chrome",
-    iconType: ChromeIcon,
+    title: "Material UI",
+    iconType: MuiIcon,
   },
   {
     title: "TypeScript",
@@ -75,8 +73,8 @@ const hobbies = [
     top: "5%",
   },
   {
-    title: "Gaming",
-    emoji: "🕹️",
+    title: "Coding",
+    emoji: "💻",
     left: "50%",
     top: "5%",
   },
