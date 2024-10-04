@@ -39,7 +39,7 @@ export const HeroSection = () => {
             Building Exceptional User Experiences
           </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
-            I am Matije, software developer with 5+ years of experience in the
+            I am Matije, software engineer with 5+ years of experience in the
             software industry, including internships and full-time roles.
             Specialized in frontend development using React.
           </p>
