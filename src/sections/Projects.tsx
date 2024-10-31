@@ -2,6 +2,7 @@ import clothing from "@/assets/images/clothing.png";
 import gallery from "@/assets/images/gallery.png";
 import feedback from "@/assets/images/feedback.png";
 import github from "@/assets/images/github.png";
+import suitcase from "@/assets/images/suitcase.png";
 import Image from "next/image";
 import CheckCircleIcon from "@/assets/icons/check-circle.svg";
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
@@ -62,6 +63,17 @@ const portfolioProjects = [
     ],
     link: "https://github-finder-app-m.netlify.app",
     image: github,
+  },
+  {
+    tehnologies: [{ name: "React" }, { name: "Vite" }, { name: "Unlimited3D" }],
+    title: "3D Suitcase",
+    results: [
+      { title: "A 3D model configurator" },
+      { title: "Allows users to customize various parts of a 3D model" },
+      { title: "Interacts with Unlimited3D API" },
+    ],
+    link: "https://3d-suitcase.vercel.app",
+    image: suitcase,
   },
 ];
 
